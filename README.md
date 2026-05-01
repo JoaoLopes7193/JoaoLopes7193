@@ -6,18 +6,17 @@
 - 🔭Atualmente desenvolvendo meu Portfolio e aprimorando minhas habilidades em JavaScript, Python, HTML, CSS
 - 💼Aberto a Oportunidades na area de TI
 
+
+<div>
+  <a href="https://github.com/JoaoLopes7193">
+  <img height= "180cm" src="https://github-readme-stats.vercel.app/api?username-JoaoLopes7193&show_icons-true&theme-dracula&include_all_commits-true&count_private-true"/>
+  <img height= "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLopes7193&layout-compact&langs_count-16&theme=dracula"/>
+  </div>
 ---
 
 
 🚀Sobre mim
 
 Sou um desenvolvedor FullStack em constante evolução, apaixonado por tecnologia, programação e inovação. Atualmente, atuo no desenvolvimento de aplicações web, trabalhando tanto no frontend quanto no backend, sempre buscando escrever codigo limpo e eficiente
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
