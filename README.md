@@ -38,5 +38,5 @@ Sou um desenvolvedor FullStack em constante evolução, apaixonado por tecnologi
   </a>
 </div>
 
- ![Snake animation](https://github.com/JoaoLopes7193/JoaoLopes7193/blob/output/github-contribution-grid-snake-svg)
+ ![Snake animation](https://github.com/JoaoLopes7193/blob/output/github-contribution-grid-snake.svg)
 
