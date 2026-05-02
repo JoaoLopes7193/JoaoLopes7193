@@ -38,5 +38,12 @@ Sou um desenvolvedor FullStack em constante evolução, apaixonado por tecnologi
   </a>
 </div>
 
- ![Snake animation](https://github.com/JoaoLopes7193/blob/output/github-contribution-grid-snake.svg)
+<div align+center>
+
+<img src="https://raw.githubusercontent.com/JoaoLopes7193/JoaoLopes7193/output/snake.svg" alt="Snake animation" />
+
+Sbake.yml:
+name: Generate snake animation
+
+</div>
 
