@@ -37,7 +37,6 @@ Sou um desenvolvedor FullStack em constante evolução, apaixonado por tecnologi
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 
@@ -46,15 +45,15 @@ Sou um desenvolvedor FullStack em constante evolução, apaixonado por tecnologi
 
 ## 📊 Estatísticas
 <div>
-  <a href= "https://github.com/JoaoLopes7193">
-  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoLopes7193&show_icons=true&theme=dracula"/>    
-  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoLopes7193&layout=compact&theme=dracula"/>
+  <a href= "https://github.com/Joaovitorlopes-dev">
+  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Joaovitorlopes-dev&show_icons=true&theme=dracula"/>    
+  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Joaovitorlopes-dev&layout=compact&theme=dracula"/>
   </a>
 </div>
 
 <div align+center>
 
-<img src="https://raw.githubusercontent.com/JoaoLopes7193/JoaoLopes7193/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Joaovitorlopes-dev/Joaovitorlopes-dev/output/snake.svg" alt="Snake animation" />
 
 </div>
 
