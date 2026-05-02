@@ -1,7 +1,7 @@
 # 👨‍💻 Joao Vitor Lopes
 
-**Desenvolvedor FullStack**
- 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=25&center=false&vCenter=true&width=500&lines=Desenvolvedor+FullStack;Backend+Developer;Frontend+Developer)
+
 - 🎓Estudante de Sistemas de Informação
 - 👩‍💻Desenvolvedor FullStack
 - 🔭Atualmente desenvolvendo meu Portfolio e aprimorando minhas habilidades em JavaScript, Python, HTML, CSS
